@@ -8,8 +8,8 @@ public class InvalidAssignment {
 		//cannot convert string to integer 
 		//int integer_var1 = "Hi";
 		
-		//cannot convert float to integer
-		//int integer_var1 = 1.2;
+		//cannot convert boolean to integer
+		//int integer_var1 = True;
 
 	}
 
